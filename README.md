@@ -5,14 +5,14 @@
 I'm Mohamed from Egypt, and I do content on Backend and Development. I really enjoy learning languages and frameworks like PHP and Laravel, as well as work in Vue js . I also enjoy Vue js 
 
 Skills: 
-PHP
-VUE JS
-JS
-HTML
-CSS
-Laravel
-Bootstrap
-Tailwind
+PHP /
+VUE JS /
+JS /
+HTML /
+CSS /
+Laravel /
+Bootstrap /
+Tailwind /
 JQuary
 
 
