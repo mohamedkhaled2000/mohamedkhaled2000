@@ -1,10 +1,20 @@
 ### Hi there 👋, my name is Mohamed
 #### I am backend developer 
-![I am backend developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am backend developer ]
 
 I'm Mohamed from Egypt, and I do content on Backend and Development. I really enjoy learning languages and frameworks like PHP and Laravel, as well as work in Vue js . I also enjoy Vue js 
 
-Skills: PHP/ VUE JS / JS / HTML / CSS
+Skills: 
+PHP
+VUE JS
+JS
+HTML
+CSS
+Laravel
+Bootstrap
+Tailwind
+JQuary
+
 
 - 🔭 I’m currently working on this page. 
 
