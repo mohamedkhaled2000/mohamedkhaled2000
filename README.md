@@ -19,7 +19,7 @@ I'm Mohamed from Egypt, and I do content on Backend and Development. I really en
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="holisitc_developer | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
+[<img align="left" alt="holisitc_developer | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 <br />
 
 ### Languages and Tools:
@@ -51,5 +51,5 @@ I'm Mohamed from Egypt, and I do content on Backend and Development. I really en
 [facebook]: https://www.facebook.com/profile.php?id=100007058855287
 [linkedin]: https://www.linkedin.com/in/mohamed-khaled-46b007226/
 [portfolio]: https://github.com/mohamedkhaled2000
-
+[whatsapp]: +201060638017
 
