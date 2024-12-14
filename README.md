@@ -1,3 +1,4 @@
+ <img align="right" alt="GIF" src="https://github.com/mohamedkhaled2000/mohamedkhaled2000/blob/main/office_work.gif?raw=true" width="700" height="320" />
 
 👋 Hi there! I'm Mohamed Khaled, a passionate Full-Stack Developer with a strong focus on building efficient, scalable, and user-friendly web applications.
 
@@ -11,7 +12,6 @@ Tools & Practices: API Development, Modular Architecture, Soft Deletes, and more
 🔧 Beyond coding, I enjoy optimizing development workflows, exploring DevOps practices, and learning new tools to improve project delivery.
 
 📫 Feel free to connect with me or explore my repositories to see how I turn ideas into fully functional applications. Let's build something amazing together!
- <img align="right" alt="GIF" src="https://github.com/mohamedkhaled2000/mohamedkhaled2000/blob/main/office_work.gif?raw=true" width="500" height="320" />
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
