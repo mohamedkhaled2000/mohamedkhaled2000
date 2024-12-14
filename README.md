@@ -1,4 +1,4 @@
- <img align="right" alt="GIF" src="https://github.com/mohamedkhaled2000/mohamedkhaled2000/blob/main/office_work.gif?raw=true" width="700" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/mohamedkhaled2000/mohamedkhaled2000/blob/main/office_work.gif?raw=true" width="500" height="320" />
 
 👋 Hi there! I'm Mohamed Khaled, a passionate Full-Stack Developer with a strong focus on building efficient, scalable, and user-friendly web applications.
 
